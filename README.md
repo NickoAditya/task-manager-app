@@ -112,10 +112,15 @@ Berikut adalah daftar *user stories* yang kami buat berdasarkan hasil *Planning 
 
 ---
 
-## 📦 Deployment
+## 📷 Preview Foto Website
 
-✅ Aplikasi dapat dijalankan secara lokal dan juga di-*deploy* ke Vercel:  
-🔗 [https://task-manager-app-henna.vercel.app](https://task-manager-app-henna.vercel.app)
+![image](https://github.com/user-attachments/assets/7e6d2100-67db-4dfa-ab7e-ed05619b2b1e)
+
+---
+
+## 🌐 Demo Langsung
+
+🔗 [task-manager-app-henna.vercel.app](https://task-manager-app-henna.vercel.app)
 
 ---
 
